@@ -1,0 +1,18 @@
+.Not-Found{
+    width: 100%;
+    height: calc(100vh - 60px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Not-Found h1{
+    font-size: 70px;
+}
+.Not-Found a{
+    text-decoration: none;
+    background-color: #116Feb;
+    color: white;
+    padding: 10px;
+    margin-top: 14px;
+}
